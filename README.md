@@ -1,4 +1,5 @@
 ### Hi there 👋
+## Programmer 이경수
 
 <!--
 **lkyungsu99/lkyungsu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
