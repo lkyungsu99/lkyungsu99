@@ -28,9 +28,6 @@
 
 ---
 
-**영상 첨부 파일 및 자기 소개서 링크**
-
-[](http://TaekServer.ezconnect.to/portal/apis/fileExplorer/share_link.cgi?link=mBai_ZLnkJ7_zKK3wK7vmg)
 
 # 🧑🏻‍💻 Development Skills
 
