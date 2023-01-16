@@ -21,8 +21,8 @@
 # 🖥Notion
 
 ---
+> [KyungSuLee Notion](https://leekyungsu.notion.site/Programmer-cb99ce01b6cb4754b775ed8312c3145f)
 
-[KyungSuLee]([https://github.com/TaeKyoungAhn](https://www.notion.so/Programmer-cb99ce01b6cb4754b775ed8312c3145f))
 
 # 🧑‍💻 Portfolio
 
