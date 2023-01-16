@@ -1,7 +1,4 @@
-### Hi there 👋
 # Programmer 이경수
-
-![KakaoTalk_20230116_170106506.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3c1c157-35bb-481e-b10b-b3d3dbd63401/KakaoTalk_20230116_170106506.jpg)
 
 <aside>
 🔥 안녕하세요!! 🔥
@@ -27,7 +24,7 @@
 
 ---
 
-[TaeKyoungAhn - Overview](https://github.com/TaeKyoungAhn)
+[KyungSuLee]([https://github.com/TaeKyoungAhn](https://www.notion.so/Programmer-cb99ce01b6cb4754b775ed8312c3145f))
 
 # 🧑‍💻 Portfolio
 
